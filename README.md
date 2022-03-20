@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oumaymaa
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently working on my MSc on Matrix Factorization and Bayesian learning  
+- 🌱 I’m currently working on my MSc on Bayesian Learning  
 - 💞️ I’m looking to collaborate on exicting projects !
 - 📫 How to reach me oumaymadalhoumi@gmail.com
 
